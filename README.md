@@ -1,13 +1,51 @@
-- 👋 Hi, I’m @erfunit
-- 👀 I’m interested in Developing front-end
-- 🌱 I’m currently learning JavaScript and React programming
-- 📫 Contact me:
-- erfunghodoosi@gmail.com
-- telegram: @erfungraph
-- instagram: erfun.it
-
-
-<!---
-erfunit/erfungraph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>
+ My name is Erfun Ghodoosi
+</h2>
+<h3>
+  front-end developer
+  </h3>
+  
+  <ul>
+  <li>
+    ✉️contact me on <a href="erfunghodoosi@gmail.com">erfunghodoosi@gmail.com</a>
+  </li>
+  <li>
+   💻I'm studying about JavaScript and React right now
+  </li>
+  <li>
+    ✒️I've been a graphic designer since 2017
+  </li>
+  </ul>
+  
+  
+<h3>
+  ⭐SKILLS:
+  </h3>
+    <ul>
+  <li>
+    JavaScript => 60%
+  </li>
+  <li>
+   html =>40%
+  </li>
+  <li>
+    css =>  60%
+  </li>
+  
+  <li>
+    photoshop =>  90%
+  </li>
+  
+  <li>
+    premier =>  80%
+  </li>
+  
+  <li>
+    after effects =>  60%
+  </li>
+  </ul>
+  
+  
+  
+  
+  
